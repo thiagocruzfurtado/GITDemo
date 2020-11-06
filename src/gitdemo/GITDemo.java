@@ -18,6 +18,9 @@ public class GITDemo {
         // TODO code application logic here
         
         System.out.println("THI");
+        System.out.println("THI");
+        System.out.println("THI");
+        
     }
     
 }
